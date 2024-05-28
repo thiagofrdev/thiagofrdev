@@ -8,7 +8,7 @@ I am a programming student. Actually I in a graduating of Systems of Information
 
 * 🌍  I'm based in Vitória da Conquista/Brazil
 * ✉️  You can contact me at [thiago26ribeiro@gmail.com](mailto:thiago26ribeiro@gmail.com)
-* 🧠  I'm learning Java and AI
+* 🧠  I'm learning Java, AI and basics of WEB Development
 * ⚡  I lived so much time in the historical city of Porto Seguro/Brazil. I love the beach!!
 
 <a href="https://www.github.com/thiagofrdev" target="_blank" rel="noreferrer"><img
